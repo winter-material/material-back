@@ -102,7 +102,7 @@ theme: magnetic
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/winter-material/material-back.git
+  repo: git@github.com:winter-material/winter-material.github.io.git
   branch: master
 
 
